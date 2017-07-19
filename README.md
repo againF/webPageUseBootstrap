@@ -1,3 +1,2 @@
-#training
 # webPageUseBootstrap
-# webPageUseBootstrap
+用Bootstrap改造的一个自适应页面
